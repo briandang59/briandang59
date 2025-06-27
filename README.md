@@ -34,6 +34,8 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
+![snake gif](https://github.com/briandang59/briandang59/blob/output/github-contribution-grid-snake.svg)
+
 
 ### 📊 GitHub Stats
 
