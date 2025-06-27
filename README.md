@@ -39,14 +39,13 @@
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=dangvietquang&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangvietquang&layout=compact&theme=tokyonight" />
 </div>
 
 
 
 ### 📫 Contact Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-dangvietquang.dev@gmail.com-red?style=flat&logo=gmail)](mailto:dvquang5902@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-dvquang5902@gmail.com-red?style=flat&logo=gmail)](mailto:dvquang5902@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dangvietquang)
 
 ---
