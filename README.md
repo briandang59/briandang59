@@ -54,4 +54,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=briandang59&theme=react-dark&hide_border=true&area=true" />
 </p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=briandang59&repo=football-app&theme=tokyonight)](https://github.com/briandang59/football-app)
+
 
