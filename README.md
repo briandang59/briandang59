@@ -54,5 +54,6 @@
 ### 🐍 Snake Commit Chart
 
 <p align="center">
-  <img src="https://github.com/dangvietquang/dangvietquang/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/briandang59/briandang59/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
