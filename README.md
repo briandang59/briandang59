@@ -42,29 +42,11 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangvietquang&layout=compact&theme=tokyonight" />
 </div>
 
----
 
-### 🏆 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangvietquang&theme=tokyonight" />
-</p>
-
----
-
-### 🧠 My Featured Projects
-
-| Project | Tech | Description |
-|--------|------|-------------|
-| [⚽ Football App](https://github.com/dangvietquang/football-app) | Go, PostgreSQL, Vue | Đặt sân, tạo giải, chat realtime |
-| [💬 Realtime Chat](https://github.com/dangvietquang/chat-app) | Node.js, Socket.IO | App chat realtime UI đẹp, có phòng |
-| [🛒 Ecommerce Admin](https://github.com/dangvietquang/ecommerce-admin) | Next.js, Tailwind | Trang quản trị sản phẩm, đơn hàng |
-
----
 
 ### 📫 Contact Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-dangvietquang.dev@gmail.com-red?style=flat&logo=gmail)](mailto:dangvietquang.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-dangvietquang.dev@gmail.com-red?style=flat&logo=gmail)](mailto:dvquang5902@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dangvietquang)
 
 ---
