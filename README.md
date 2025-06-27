@@ -54,4 +54,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=briandang59&theme=react-dark&hide_border=true&area=true" />
 </p>
 
-
+![Snake animation](https://github.com/{username}/{username}/blob/output/github-contribution-grid-snake.gif)
