@@ -39,21 +39,19 @@
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=dangvietquang&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangvietquang&layout=compact&theme=tokyonight" />
 </div>
 
 
 
 ### 📫 Contact Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-dangvietquang.dev@gmail.com-red?style=flat&logo=gmail)](mailto:dvquang5902@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-dvquang5902@gmail.com-red?style=flat&logo=gmail)](mailto:dvquang5902@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dangvietquang)
 
 ---
 
-### 🐍 Snake Commit Chart
-
 <p align="center">
-  <img src="https://github.com/briandang59/briandang59/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=briandang59&theme=react-dark&hide_border=true&area=true" />
 </p>
+
 
